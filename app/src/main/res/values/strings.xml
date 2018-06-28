@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="title_hint">Enter Title Here</string>
+    <string name="description_hint">Enter Description Here</string>
+    <string name="select_date">Select Date</string>
+    <string name="add_task">Add Task</string>
+</resources>
